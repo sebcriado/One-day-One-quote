@@ -100,3 +100,14 @@ input{
 label{
     color: #61618e;
 }
+
+@media screen and (max-width: 500px) {
+    p{
+        margin-top: 30px;
+        font-size: 17px;
+    }
+
+    h1{
+        font-size: 40px;
+    }
+}
